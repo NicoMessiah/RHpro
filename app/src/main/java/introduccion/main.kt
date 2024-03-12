@@ -25,7 +25,7 @@ fun main(){
     val a = readLine()!!.toInt()
     val b = readLine()!!.toInt()
 
-
+v
     print("1) Sumar 2)Restar 3)Multiplicacion")
     val operacion = readLine()?.toInt()
 
